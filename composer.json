@@ -1,0 +1,10 @@
+{
+    "name": "redmedicine7/php-mvc-core",
+    "authors": [
+        {
+            "name": "redmedicine7",
+            "email": "redmedicine7@gmail.com"
+        }
+    ],
+    "require": {}
+}
