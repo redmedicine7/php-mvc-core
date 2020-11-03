@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\form;
+namespace redmedicine7\phpmvc\form;
 
 
 class TextAreaField extends BaseField

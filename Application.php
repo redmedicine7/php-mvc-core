@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace redmedicine7\phpmvc;
 
-use app\core\db\Database;
+use redmedicine7\phpmvc\db\Database;
 use Exception;
 
 class Application

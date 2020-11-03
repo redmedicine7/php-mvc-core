@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace redmedicine7\phpmvc;
 
 
 abstract class Model

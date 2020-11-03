@@ -1,9 +1,9 @@
 <?php
 
 
-namespace app\core\db;
+namespace redmedicine7\phpmvc\db;
 
-use app\core\Application;
+use redmedicine7\phpmvc\Application;
 use PDO;
 
 class Database

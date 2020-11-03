@@ -1,9 +1,9 @@
 <?php
 
 
-namespace app\core\db;
+namespace redmedicine7\phpmvc\db;
 
-use app\core\Model;
+use redmedicine7\phpmvc\Model;
 
 abstract class DbModel extends Model
 {

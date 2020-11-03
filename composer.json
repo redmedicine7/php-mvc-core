@@ -6,5 +6,13 @@
             "email": "redmedicine7@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+
+        "psr-4" : {
+
+            "redmedicine7\\phpmvc": "./"
+        }
+
+    }
 }

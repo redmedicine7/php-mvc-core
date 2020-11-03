@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace redmedicine7\phpmvc;
 
 
-use app\core\exception\NotFoundException;
+use redmedicine7\phpmvc\exception\NotFoundException;
 
 class Router
 {

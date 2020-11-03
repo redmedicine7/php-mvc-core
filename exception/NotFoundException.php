@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\exception;
+namespace redmedicine7\phpmvc\exception;
 
 
 use Exception;

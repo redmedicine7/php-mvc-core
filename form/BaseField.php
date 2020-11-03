@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\form;
+namespace redmedicine7\phpmvc\form;
 
 
-use app\core\Model;
+use redmedicine7\phpmvc\Model;
 
 abstract class BaseField
 {

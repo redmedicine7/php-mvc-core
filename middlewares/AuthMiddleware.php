@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\middlewares;
+namespace redmedicine7\phpmvc\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use redmedicine7\phpmvc\Application;
+use redmedicine7\phpmvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

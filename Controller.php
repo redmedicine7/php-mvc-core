@@ -1,9 +1,9 @@
 <?php
 
 
-namespace app\core;
+namespace redmedicine7\phpmvc;
 
-use app\core\middlewares\BaseMiddleware;
+use redmedicine7\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {
