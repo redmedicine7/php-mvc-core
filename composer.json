@@ -11,7 +11,7 @@
 
         "psr-4" : {
 
-            "redmedicine7\\phpmvc": "./"
+            "redmedicine7\\phpmvc\\": "./"
         }
 
     }
